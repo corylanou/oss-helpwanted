@@ -33,3 +33,6 @@ To see only help wanted issues, follow these links:
 #### [Caddy](https://github.com/mholt/caddy)
 - [All Help Wanted](https://github.com/mholt/caddy/labels/help%20wanted)
 - [Help Wanted - Easy](https://github.com/mholt/caddy/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22help+wanted%22+label%3Aeasy)
+
+#### [Gogs](https://github.com/gogits/gogs)
+- [Help Wanted](https://github.com/gogits/gogs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
