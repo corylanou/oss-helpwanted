@@ -18,3 +18,6 @@ To see only help wanted issues, follow these links:
 - [Intermediate](https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+label%3Aexp%2Fintermediate)
 - [Expert](https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+label%3Aexp%2Fexpert)
 
+### [CockroachDB](https://github.com/cockroachdb/cockroach)
+- [All Help Wanted](https://github.com/cockroachdb/cockroach/labels/helpwanted)
+- [Help Wanted - Easy](https://github.com/cockroachdb/cockroach/issues?q=is%3Aopen+label%3Ahelpwanted+label%3Aeasy)
