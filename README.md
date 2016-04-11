@@ -13,6 +13,14 @@ To see only help wanted issues, follow these links:
 - [Help Wanted - Difficulty: medium](https://github.com/influxdata/influxdb/issues?q=is%3Aopen+is%3Aissue+label%3Astatus%2Fhelp-wanted+label%3Adifficulty%2Fmedium)
 - [Help Wanted - Difficulty: high](https://github.com/influxdata/influxdb/issues?q=is%3Aopen+is%3Aissue+label%3Astatus%2Fhelp-wanted+label%3Adifficulty%2Fhigh)
 
+#### [Kapacitor](http://github.com/influxdata/kapacitor)
+To see only help wanted issues, follow these links:
+
+- [All Help Wanted](https://github.com/influxdata/kapacitor/labels/help%20wanted)
+- [Help Wanted - Difficulty: easy](https://github.com/influxdata/kapacitor/labels/difficulty-easy)
+- [Help Wanted - Difficulty: medium](https://github.com/influxdata/kapacitor/labels/difficulty-medium)
+- [Help Wanted - Difficulty: hard](https://github.com/influxdata/kapacitor/labels/difficulty-hard)
+
 #### [Docker](https://github.com/docker/docker)
 - [Beginner](https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+label%3Aexp%2Fbeginner)
 - [Intermediate](https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+label%3Aexp%2Fintermediate)
