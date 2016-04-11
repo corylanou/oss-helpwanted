@@ -12,3 +12,9 @@ To see only help wanted issues, follow these links:
 - [Help Wanted - Difficulty: low](https://github.com/influxdata/influxdb/issues?q=is%3Aopen+is%3Aissue+label%3Astatus%2Fhelp-wanted+label%3Adifficulty%2Flow)
 - [Help Wanted - Difficulty: medium](https://github.com/influxdata/influxdb/issues?q=is%3Aopen+is%3Aissue+label%3Astatus%2Fhelp-wanted+label%3Adifficulty%2Fmedium)
 - [Help Wanted - Difficulty: high](https://github.com/influxdata/influxdb/issues?q=is%3Aopen+is%3Aissue+label%3Astatus%2Fhelp-wanted+label%3Adifficulty%2Fhigh)
+
+#### [Docker](https://github.com/docker/docker)
+- [Beginner](https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+label%3Aexp%2Fbeginner)
+- [Intermediate](https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+label%3Aexp%2Fintermediate)
+- [Expert](https://github.com/docker/docker/issues?q=is%3Aopen+is%3Aissue+label%3Aexp%2Fexpert)
+
