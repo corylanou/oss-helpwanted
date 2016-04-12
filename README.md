@@ -36,3 +36,7 @@ To see only help wanted issues, follow these links:
 
 #### [Gogs](https://github.com/gogits/gogs)
 - [Help Wanted](https://github.com/gogits/gogs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+
+#### [Arduino Create Agent](https://github.com/arduino/arduino-create-agent)
+This project works, but it's a mess of non idiomatic go code without tests.
+- [Help wanted - Refactor](https://github.com/arduino/arduino-create-agent/issues/3)
