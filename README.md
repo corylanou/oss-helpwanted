@@ -40,3 +40,6 @@ To see only help wanted issues, follow these links:
 #### [Arduino Create Agent](https://github.com/arduino/arduino-create-agent)
 This project works, but it's a mess of non idiomatic go code without tests.
 - [Help wanted - Refactor](https://github.com/arduino/arduino-create-agent/issues/3)
+
+#### [universal-translator](https://github.com/go-playground/universal-translator)
+- [Help Wanted - Tests](https://github.com/go-playground/universal-translator/issues/1)
