@@ -43,3 +43,8 @@ This project works, but it's a mess of non idiomatic go code without tests.
 
 #### [universal-translator](https://github.com/go-playground/universal-translator)
 - [Help Wanted - Tests](https://github.com/go-playground/universal-translator/issues/1)
+
+#### [Go kit](https://github.com/go-kit/kit)
+- [Help Wanted](https://github.com/go-kit/kit/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+- [Help Wanted, Newbie Friendly](https://github.com/go-kit/kit/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3A"help+wanted"+label%3A"newbie+friendly")
+
