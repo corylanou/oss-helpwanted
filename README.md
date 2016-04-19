@@ -52,3 +52,7 @@ This project works, but it's a mess of non idiomatic go code without tests.
 - [Help Wanted](https://github.com/go-kit/kit/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 - [Help Wanted, Newbie Friendly](https://github.com/go-kit/kit/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3A"help+wanted"+label%3A"newbie+friendly")
 
+#### [fsnotify](https://github.com/fsnotify/fsnotify)
+
+- Help wanted to [investigate and reproduce issues](https://github.com/fsnotify/fsnotify/issues?q=is%3Aissue+is%3Aopen+label%3Ainvestigate), review [pull requests](https://github.com/fsnotify/fsnotify/pulls), support additional platforms, and clean up the existing code.
+
