@@ -58,7 +58,7 @@ This project works, but it's a mess of non idiomatic go code without tests.
 
 #### [log](https://github.com/go-playground/log)
 - [Help Wanted](https://github.com/go-playground/log/issues/1)
-- 
+
 #### [gorilla/mux](https://github.com/gorilla/mux)
 - [Help Wanted](https://github.com/gorilla/mux/labels/helpwanted)
 - [Documentation](https://github.com/gorilla/mux/labels/documentation)
