@@ -62,3 +62,9 @@ This project works, but it's a mess of non idiomatic go code without tests.
 #### [gorilla/mux](https://github.com/gorilla/mux)
 - [Help Wanted](https://github.com/gorilla/mux/labels/helpwanted)
 - [Documentation](https://github.com/gorilla/mux/labels/documentation)
+
+#### [gorouter](https://github.com/vardius/gorouter)
+- [Help Wanted](https://github.com/vardius/gorouter/labels/help%20wanted)
+
+#### [go-api-boilerplate](https://github.com/vardius/go-api-boilerplate)
+- [Help Wanted](https://github.com/vardius/go-api-boilerplate/labels/help%20wanted)
