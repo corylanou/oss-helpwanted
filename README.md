@@ -5,7 +5,7 @@ The purpose of this repo is to maintain a list of open source projects by langua
 ## Go
 [golang.org](http://golang.org)
 
-- [Help Wanted](https://github.com/golang/go/issues?q=is%3Aopen+is%3Aissue+label%3AHelpWanted)
+- [Help Wanted](https://github.com/golang/go/labels/help%20wanted)
 - [Documentation](https://github.com/golang/go/issues?q=is%3Aopen+is%3Aissue+label%3ADocumentation)
 - [Contribution Guidelines](https://golang.org/doc/contribute.html)
 
