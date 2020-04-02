@@ -69,6 +69,9 @@ This project works, but it's a mess of non idiomatic go code without tests.
 #### [go-api-boilerplate](https://github.com/vardius/go-api-boilerplate)
 - [Help Wanted](https://github.com/vardius/go-api-boilerplate/labels/help%20wanted)
 
+#### [httpexpect](https://github.com/gavv/httpexpect)
+- [Help Wanted](https://github.com/gavv/httpexpect/labels/help%20wanted)
+
 ## C++
 
 #### [Roc](https://roc-project.github.io/)
