@@ -85,3 +85,6 @@ This project works, but it's a mess of non idiomatic go code without tests.
 #### [Roc Toolkit](https://roc-streaming.org/)
 - [Help Wanted](https://github.com/roc-streaming/roc-toolkit/labels/help%20wanted)
 - [Contribution Guidelines](https://roc-streaming.org/toolkit/docs/development/contribution_guidelines.html)
+
+#### [Signal Estimator](https://github.com/gavv/signal-estimator)
+- [Help Wanted](https://github.com/gavv/signal-estimator/labels/help%20wanted)
