@@ -1,6 +1,6 @@
 # Open Source Help Wanted Projects
 
-The purpose of this repo is to maintain a list of open source projects by language that allow for the community to quickly indentify areas they can contribute.  This is very helpful for individuals that are new to a language.  I'm also hoping this will be used for hackathons and meetups.
+The purpose of this repo is to maintain a list of open source projects by language that allow for the community to quickly identify areas they can contribute.  This is very helpful for individuals that are new to a language.  I'm also hoping this will be used for hackathons and meetups.
 
 ## Go
 [golang.org](http://golang.org)
